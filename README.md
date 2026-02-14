@@ -2,29 +2,10 @@
 
 Computer & Information Science student interested in Python, AI, and Data Science.
 
----
-
-## 🔭 What I'm working on
-- Implementing core data structures and algorithms from scratch
-- Practicing problem solving on LeetCode
-- Exploring machine learning concepts beyond high-level libraries
+🌱 I’m currently learning Algorithms, Deep Learning fundamentals, and PyTorch
 
 ---
 
-## 🌱 What I'm currently learning
-- Algorithms and problem solving
-- Deep Learning fundamentals
-- PyTorch
-
----
-
-## 🛠️ Skills & Tools
-- Languages: Python, C/C++
-- Concepts: Data Structures, Algorithms, OOP, Problem Solving
-- Tools: Git, GitHub, Linux, Jupyter Notebook, VS Code
-- Data Science: NumPy, Pandas, Matplotlib
-
----
 
 ## 📫 Connect with me
 - GitHub: https://github.com/ysfa7md
@@ -46,7 +27,19 @@ I believe understanding *why* something works is more important than just knowin
 That’s why I prefer building before optimizing.
 
 ---
+## 🔭 What I'm working on
+- Implementing core data structures and algorithms from scratch
+- Practicing problem solving on LeetCode
+- Exploring machine learning concepts beyond high-level libraries
 
+## 🛠️ Skills & Tools
+- Languages: Python, C/C++
+- Concepts: Data Structures, Algorithms, OOP, Problem Solving
+- Tools: Git, GitHub, Linux, Jupyter Notebook, VS Code
+- Data Science: NumPy, Pandas, Matplotlib
+
+---
+---
 
 ## Hi there 👋
 **ysfa7md/ysfa7md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
