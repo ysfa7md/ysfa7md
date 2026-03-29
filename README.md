@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-Computer & Information Science student interested in Python, AI, and Data Science.
+Computer & Information Science student interested in Python, AI, ML, and Data Science.
 
 🌱 I’m currently learning Algorithms, Deep Learning fundamentals, and PyTorch
 
